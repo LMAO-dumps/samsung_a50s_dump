@@ -1,0 +1,16 @@
+kernel=kernel
+ramdisk=ramdisk
+page_size=2048
+dtbo=dtbo.img
+dt=dt.img
+kernel_size=30343180
+ramdisk_size=13186708
+dtb_size=1
+base_addr=0x10000000
+kernel_offset=0x00008000
+ramdisk_offset=0x01000000
+tags_offset=0x00000100
+dtbo_offset=0xf2984800
+cmd_line=''
+board="SRPSG01A005RU"
+format=gzip
