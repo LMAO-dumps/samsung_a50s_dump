@@ -1,0 +1,5 @@
+{
+    "default-layout": "bengali_smart",
+    "alternate-layouts": ["bengali"],
+    "extra-punctuation" : ["।"]
+}

@@ -1,0 +1,5 @@
+{
+    "default-layout": "marathi_smart",
+    "alternate-layouts": ["marathi"],
+    "extra-punctuation" : ["।"]
+}

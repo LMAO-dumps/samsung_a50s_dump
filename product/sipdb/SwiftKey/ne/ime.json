@@ -1,0 +1,5 @@
+{
+    "default-layout": "hindi_smart",
+    "alternate-layouts": ["nepali"],
+    "extra-punctuation" : ["।"]
+}

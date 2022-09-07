@@ -1,0 +1,5 @@
+{
+    "default-layout": "oriya_smart",
+    "alternate-layouts": ["oriya"],
+    "extra-punctuation" : ["।"]
+}
